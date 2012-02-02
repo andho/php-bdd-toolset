@@ -1,6 +1,14 @@
 {
-    "hash": "0443f285f5a1e0e9f3272e5cff61225f",
+    "hash": "26b9c685f5121cba9fc3c3e2374ea666",
     "packages": [
+        {
+            "package": "kriswallsmith\/buzz",
+            "version": "master-dev"
+        },
+        {
+            "package": "behat\/sahi-client",
+            "version": "master-dev"
+        },
         {
             "package": "symfony\/yaml",
             "version": "2.1.0-dev"
@@ -24,6 +32,18 @@
         {
             "package": "symfony\/console",
             "version": "2.1.0-dev"
+        },
+        {
+            "package": "alexandresalome\/php-selenium",
+            "version": "master-dev"
+        },
+        {
+            "package": "facebook\/php-webdriver",
+            "version": "master-dev"
+        },
+        {
+            "package": "behat\/mink",
+            "version": "master-dev"
         },
         {
             "package": "behat\/gherkin",
@@ -58,30 +78,6 @@
             "version": "2.1.0-dev"
         },
         {
-            "package": "cordoval\/phpspec",
-            "version": "master-dev"
-        },
-        {
-            "package": "kriswallsmith\/buzz",
-            "version": "master-dev"
-        },
-        {
-            "package": "behat\/sahi-client",
-            "version": "master-dev"
-        },
-        {
-            "package": "alexandresalome\/php-selenium",
-            "version": "master-dev"
-        },
-        {
-            "package": "facebook\/php-webdriver",
-            "version": "master-dev"
-        },
-        {
-            "package": "behat\/mink",
-            "version": "master-dev"
-        },
-        {
             "package": "zendframework\/zend-registry",
             "version": "2.0.0beta1"
         },
@@ -104,6 +100,10 @@
         {
             "package": "zendframework\/zend-uri",
             "version": "2.0.0beta1"
+        },
+        {
+            "package": "phpspec\/phpspec",
+            "version": "master-dev"
         },
         {
             "package": "fabpot\/goutte",
