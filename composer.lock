@@ -1,0 +1,113 @@
+{
+    "hash": "0443f285f5a1e0e9f3272e5cff61225f",
+    "packages": [
+        {
+            "package": "symfony\/yaml",
+            "version": "2.1.0-dev"
+        },
+        {
+            "package": "symfony\/config",
+            "version": "2.1.0-dev"
+        },
+        {
+            "package": "symfony\/translation",
+            "version": "2.1.0-dev"
+        },
+        {
+            "package": "symfony\/event-dispatcher",
+            "version": "2.1.0-dev"
+        },
+        {
+            "package": "symfony\/dependency-injection",
+            "version": "2.1.0-dev"
+        },
+        {
+            "package": "symfony\/console",
+            "version": "2.1.0-dev"
+        },
+        {
+            "package": "behat\/gherkin",
+            "version": "v2.0.1"
+        },
+        {
+            "package": "behat\/behat",
+            "version": "master-dev"
+        },
+        {
+            "package": "mockery\/mockery",
+            "version": "0.7.3-dev"
+        },
+        {
+            "package": "symfony\/process",
+            "version": "2.1.0-dev"
+        },
+        {
+            "package": "symfony\/finder",
+            "version": "2.1.0-dev"
+        },
+        {
+            "package": "symfony\/css-selector",
+            "version": "2.1.0-dev"
+        },
+        {
+            "package": "symfony\/dom-crawler",
+            "version": "2.1.0-dev"
+        },
+        {
+            "package": "symfony\/browser-kit",
+            "version": "2.1.0-dev"
+        },
+        {
+            "package": "cordoval\/phpspec",
+            "version": "master-dev"
+        },
+        {
+            "package": "kriswallsmith\/buzz",
+            "version": "master-dev"
+        },
+        {
+            "package": "behat\/sahi-client",
+            "version": "master-dev"
+        },
+        {
+            "package": "alexandresalome\/php-selenium",
+            "version": "master-dev"
+        },
+        {
+            "package": "facebook\/php-webdriver",
+            "version": "master-dev"
+        },
+        {
+            "package": "behat\/mink",
+            "version": "master-dev"
+        },
+        {
+            "package": "zendframework\/zend-registry",
+            "version": "2.0.0beta1"
+        },
+        {
+            "package": "zendframework\/zend-loader",
+            "version": "2.0.0beta1"
+        },
+        {
+            "package": "zendframework\/zend-stdlib",
+            "version": "2.0.0beta1"
+        },
+        {
+            "package": "zendframework\/zend-validator",
+            "version": "2.0.0beta1"
+        },
+        {
+            "package": "zendframework\/zend-http",
+            "version": "2.0.0beta1"
+        },
+        {
+            "package": "zendframework\/zend-uri",
+            "version": "2.0.0beta1"
+        },
+        {
+            "package": "fabpot\/goutte",
+            "version": "master-dev"
+        }
+    ]
+}
