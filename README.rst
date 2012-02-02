@@ -6,7 +6,9 @@ Provides an easy installation of Behat, Mink and PHPSpec for the best BDD toolse
 
 Installation:
 =============
+
 ::
+
     mkdir -p /usr/share/toolsets
     cd /usr/share/toolsets
     git clone https://github.com/andho/php-bdd-toolset.git
