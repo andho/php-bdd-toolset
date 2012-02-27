@@ -5,8 +5,9 @@
     "fabpot/goutte": "*",
     "phpspec/phpspec": ">=1.3.0"
   },
-  "repositories": {
-    "phpspec/phpspec": {
+  "repositories": [
+    {
+      "type": "package",
       "package": {
  	"name": "phpspec/phpspec",
         "version": "master-dev",
@@ -35,7 +36,8 @@
         }
       }
     },
-    "fabpot/goutte": {
+    {
+      "type": "package",
       "package": {
         "name": "fabpot/goutte",
         "version": "master-dev",
@@ -66,7 +68,8 @@
         }
       }
     },
-        "alexandresalome/php-selenium": {
+        {
+            "type": "package",
             "package": {
                 "name": "alexandresalome/php-selenium",
                 "version": "master-dev",
@@ -87,7 +90,8 @@
                 }
             }
         },
-        "facebook/php-webdriver": {
+        {
+            "type": "package",
             "package": {
                 "name": "facebook/php-webdriver",
                 "version": "master-dev",
@@ -113,7 +117,8 @@
                 }
             }
         },
-        "zendframework/zend-registry": {
+        {
+            "type": "package",
             "package": {
                 "name": "zendframework/zend-registry",
                 "version": "2.0.0beta1",
@@ -126,7 +131,8 @@
                 }
             }
         },
-        "zendframework/zend-loader": {
+        {
+            "type": "package",
             "package": {
                 "name": "zendframework/zend-loader",
                 "version": "2.0.0beta1",
@@ -139,7 +145,8 @@
                 }
             }
         },
-        "zendframework/zend-stdlib": {
+        {
+            "type": "package",
             "package": {
                 "name": "zendframework/zend-stdlib",
                 "version": "2.0.0beta1",
@@ -152,7 +159,8 @@
                 }
             }
         },
-        "zendframework/zend-validator": {
+        {
+            "type": "package",
             "package": {
                 "name": "zendframework/zend-validator",
                 "version": "2.0.0beta1",
@@ -165,7 +173,8 @@
                 }
             }
         },
-        "zendframework/zend-http": {
+        {
+            "type": "package",
             "package": {
                 "name": "zendframework/zend-http",
                 "version": "2.0.0beta1",
@@ -178,7 +187,8 @@
                 }
             }
         },
-        "zendframework/zend-uri": {
+        {
+            "type": "package",
             "package": {
                 "name": "zendframework/zend-uri",
                 "version": "2.0.0beta1",
@@ -191,5 +201,5 @@
                 }
             }
         }
-  }
+  ]
 }
