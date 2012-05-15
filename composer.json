@@ -1,8 +1,11 @@
 {
   "require": {
-    "behat/behat": "*",
-    "behat/mink": "*",
+    "behat/behat": "=2.3",
+    "behat/mink": "=1.3.3",
+    "behat/sahi-client": "*",
     "fabpot/goutte": "*",
+    "alexandresalome/php-selenium": "*",
+    "facebook/php-webdriver": "*",
     "phpspec/phpspec": "develop-dev"
   },
   "repositories": [
